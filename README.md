@@ -5,11 +5,12 @@ Android application about public transport, created for the competition in Kalis
 
 The application has all the bus stops in Kalisz and the departure time from the bus stops.
 
-![Bez nazwy-1](https://user-images.githubusercontent.com/88771960/175772613-edc85f2e-92a3-43bf-9f1a-4805086025a6.png)
+![Bez nazwy-1](https://user-images.githubusercontent.com/88771960/175773433-8ef7c075-f650-4c3d-a765-fcd0399c0cff.png)
+
 
 The application also has a list of favorite stops, a map of all stops and a route search
 
-![Bez nazwy-2](https://user-images.githubusercontent.com/88771960/175772856-cfb181a9-b9cf-4bc8-9cce-4b8c885149fe.png)
+![Bez nazwy-2](https://user-images.githubusercontent.com/88771960/175773290-957444d8-a5ac-47dd-b672-2004bca6b327.png)
 
 ## Used technologies
 

@@ -17,6 +17,7 @@ The application also has a list of favorite stops, a map of all stops and a rout
 - Java
 - Android Studio
 - Google Maps SDK
+- Android ViewModel
 - Reading from csv files
 
 ## Try it yourself!
